@@ -1,6 +1,6 @@
 # GroceryAssistant Support
 
-Thank you for using GroceryAssistant.
+Thank you for using GroceryAssistant. Its abbreviation is **GrocAssist**.
 
 If you have any questions, suggestions, or encounter any issues while using the app, please contact us:
 
@@ -8,7 +8,7 @@ Email: [app.ga.support@gamil.com](mailto:app.ga.support@gmail.com)
 
 ## Frequently Asked Questions
 
-### 1. What is GroceryAssistant??
+### 1. What is GroceryAssistant?
 GroceryAssistant serves as your personal shopping companion, helping you create grocery lists and track purchased items in real time so you can complete your shopping efficiently.
 Additionally, it lets you log current prices for future reference.
 ### 2. Do I need an account to use the app?
