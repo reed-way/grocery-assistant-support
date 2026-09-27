@@ -4,7 +4,7 @@ Thank you for using GroceryAssistant. Its abbreviation is **GrocAssist**.
 
 If you have any questions, suggestions, or encounter any issues while using the app, please contact us:
 
-Email: [app.ga.support@gamil.com](mailto:app.ga.support@gmail.com)
+Email: [support.ga.app@gamil.com](mailto:support.ga.app@gmail.com)
 
 ## Frequently Asked Questions
 
