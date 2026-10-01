@@ -28,7 +28,7 @@ Yes. Core features work without an internet connection.
 Your shopping lists and product data are stored locally on your device.
 ### 7. Is my data shared with third parties?
 No. GroceryAssistant does not sell your personal data.
-<!-- Please refer to the Privacy Policy for details about data handling. -->
+Please refer to the [Privacy Policy](privacy/) for details about data handling.
 ### 8. Which devices are supported?
 GroceryAssistant is designed for iPhone and supports current iOS versions listed on the App Store.
 ### 9. Is GroceryAssistant free?
