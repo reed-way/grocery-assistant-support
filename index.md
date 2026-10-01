@@ -1,4 +1,4 @@
-# GroceryAssistant Support
+# Welcome
 
 Thank you for using GroceryAssistant. Its abbreviation is **GrocAssist**.
 
